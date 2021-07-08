@@ -21,6 +21,7 @@ public class Dice {
     System.out.println("Rolling the dice...");
 
     System.out.println("Die 1: "+randomValue);
+    
     System.out.println("Die 2: "+randomValue2);
     
     int totalRandomValue = randomValue + randomValue2;
