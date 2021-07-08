@@ -19,12 +19,7 @@ public class Dice {
 
     System.out.println("Total value: "+totalValue);
 
-    if(totalValue>7) {
-        System.out.println("won!");
-    }
-    else {
-        System.out.println("lost...");
-    }
+    
 
     }
 }
